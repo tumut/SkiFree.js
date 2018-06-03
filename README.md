@@ -4,10 +4,13 @@ SkiFree clone made with JavaScript and HTML, using the same assets as the origin
 
 [You can play it here!](https://tumut.github.io/SkiFree.js)
 
+The game's interface is in Brazilian Portuguese🇧🇷 for now. I hope you don't mind.
+
 ## Details
 
 The game differs slightly in gameplay from the original.
 
+* Use **A**, **S** and **D** for controls.
 * The skier has lives, and hitting too many obstacles will give you a Game Over.
 * Flaming bushes take 2 of your lives!
 * You need to obtain mushrooms in order to recover your health.
