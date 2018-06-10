@@ -4,8 +4,6 @@ SkiFree clone made with JavaScript and HTML, using the same assets as the origin
 
 [You can play it here!](https://tumut.github.io/SkiFree.js)
 
-The game's interface is in Brazilian Portuguese🇧🇷 for now. I hope you don't mind.
-
 ## Details
 
 The game differs slightly in gameplay from the original.
