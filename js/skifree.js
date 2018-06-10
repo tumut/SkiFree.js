@@ -209,9 +209,9 @@
 		let panel = document.getElementById('panel');
 		let color = (panelHealth == 0)? 'style="color:red"' : '';
 
-		panel.innerHTML =`<strong>Distância:</strong> ${distanceTraveled} m<br/>
-			<strong>Velocidade:</strong> ${panelSpeed} m/s<br/>
-			<strong ${color}>Vidas:</strong> ${panelHealth}/${INITIAL_HEALTH}<br/>`;
+		panel.innerHTML =`<strong>Distance:</strong> ${distanceTraveled} m<br/>
+			<strong>Speed:</strong> ${panelSpeed} m/s<br/>
+			<strong ${color}>Health:</strong> ${panelHealth}/${INITIAL_HEALTH}<br/>`;
 	}
 
 	function updatePanelDistance() {
