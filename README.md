@@ -8,7 +8,7 @@ SkiFree clone made with JavaScript and HTML, using the same assets as the origin
 
 The game differs slightly in gameplay from the original.
 
-* Use **A**, **S** and **D** for controls. **F** still enables the turbo.
+* Use <kbd>A</kbd>, <kbd>S</kbd> and <kbd>D</kbd> for controls. <kbd>F</kbd> still enables the turbo.
 * The skier has lives, and hitting too many obstacles will give you a Game Over.
 * Flaming bushes take 2 of your lives!
 * You need to obtain mushrooms in order to recover your health.
